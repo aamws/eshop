@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "iPhone 15 pro",
+      "brand": "Apple",
+      "category": "Phones",
+      "price": "1199",
+      "description": "This is the latest iPhone from Apple",
+      "imageFilename": "1757612054354_23456.jpeg",
+      "createdAt": "2025-09-08",
+      "id": 4
+    },
+    {
+      "name": "iPhone 15 ",
+      "brand": "Apple",
+      "category": "Phones",
+      "price": "999.99",
+      "description": "This is the latest iPhone from Apple",
+      "imageFilename": "1757610928114_13579.jpeg",
+      "createdAt": "2025-09-08",
+      "id": 5
+    },
+    {
+      "name": "MSI Pulse",
+      "brand": "MSI",
+      "category": "Accessories",
+      "price": "600",
+      "description": "MSI Pulse Gl66 15.6 Gaming Laptop",
+      "imageFilename": "1757531329604_MSI plus.webp",
+      "createdAt": "2025-09-10",
+      "id": 6
+    },
+    {
+      "name": "Acer Swift",
+      "brand": "Acer",
+      "category": "Computers",
+      "price": "1200",
+      "description": "Acer Swift creator laptop 14\" full HD",
+      "imageFilename": "1757531541909_Acer Swift.webp",
+      "createdAt": "2025-09-10",
+      "id": 7
+    },
+    {
+      "name": "Lenovo Idepad",
+      "brand": "Lenovo",
+      "category": "Computers",
+      "price": "1000",
+      "description": "Lenovo Laptop touchscreen",
+      "imageFilename": "1757532085865_Lenovo l.webp",
+      "createdAt": "2025-09-10",
+      "id": 8
+    },
+    {
+      "name": "Lenovo Tablet",
+      "brand": "Lenovo",
+      "category": "Computers",
+      "price": "700",
+      "description": "Lenovo Tablet 12GB 8.8 inch",
+      "imageFilename": "1757590924297_Lenovo-Legion.jpg",
+      "createdAt": "2025-09-11T11:42:04.310Z",
+      "id": 9
+    },
+    {
+      "name": "Samsung Galaxy S25 ",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "1000.01",
+      "description": "Samsung Galaxy S25 Ultra AI Phone, 512GB Storage, 12GB RAM, Titanium Black, Android Smartphone, 200MP Camera, S Pen, Long Battery Life",
+      "imageFilename": "1757788350351_Samsung Galaxy S25.webp",
+      "createdAt": "2025-09-13T17:04:13.462Z",
+      "id": 10
+    }
+  ]
+}
